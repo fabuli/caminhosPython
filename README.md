@@ -1,5 +1,9 @@
 # Caminhos para Python
 Lista de materiais para aprender Python
+Esta lista foi criada a partir de sugestões dos participantes do grupo:
+
+Grupos de estudos Open Science, Programação e R 
+https://marcosvital.github.io/studyGroup/
 
 ## Objetivo
 
