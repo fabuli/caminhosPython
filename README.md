@@ -21,6 +21,9 @@ https://github.com/marcosvital/studyGroup/blob/gh-pages/reunioes/material%20de%2
 - ### Think Python
 https://github.com/marcosvital/studyGroup/blob/gh-pages/reunioes/material%20de%20estudo/thinkpython.pdf
 
+- ### Think Python (Traduzido para português)
+https://github.com/PenseAllen/PensePython2e
+
 ## Cursos Online sobre Python
 
 - ### Caio na Aula - Curso de Python (Youtube)
